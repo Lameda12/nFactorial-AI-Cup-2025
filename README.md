@@ -3,7 +3,7 @@
 Fork this repository and build nFactorial Ai Cup 2025 projects
 
 ## Author
-Amadi
+Alamedin Sabit
 
 ## App Name
 Recall - AI Memory Assistant
